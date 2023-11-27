@@ -3,11 +3,11 @@ title: Modern data stack in a box
 subtitle: A fast inexepnsive data stack, using modern open-source data tools.
 date: 2023-11-30 00:00:00
 description: Using the newest open source tech, it is feasible to run a highly optimized data stack without the need of expensive data centers. Highly scalable and flexible for medium sized organsitations or project based data warehousing.  
-featured_image: meltano.jpg
+featured_image: /images/meltano.jpg
 accent_color: '#4C60E6'
 gallery_images:
-  - meltano.jpg
-  - dbt.jpg
+  - /images/meltano.jpg
+  - /images/dbt.jpg
 ---
 Data is everything. Having highly optimized data quality will give the organization a great advantage. 
 
