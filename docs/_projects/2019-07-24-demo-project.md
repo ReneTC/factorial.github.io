@@ -2,111 +2,39 @@
 title: Modern data stack in a box
 subtitle: A fast inexepnsive data stack, using modern open-source data tools.
 date: 2023-11-30 00:00:00
-description: Using the newest open source tech, it is feasible to run a highly optimised data stack without the need of expensive data centers. Highly scalable and flexible for medium sized organsitations or project based data warehousing.  
-featured_image: demo.jpg
+description: Using the newest open source tech, it is feasible to run a highly optimized data stack without the need of expensive data centers. Highly scalable and flexible for medium sized organsitations or project based data warehousing.  
+featured_image: meltano.jpg
 accent_color: '#4C60E6'
 gallery_images:
-  - demo.jpg
-  - demo.jpg
-  - demo.jpg
+  - meltano.jpg
+  - dbt.jpg
 ---
+Data is everything. Having highly optimized data quality will give the organization a great advantage. 
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+Big organizations use expensive cloud servers, that has the latest and greatest from a modern data stack. However, many of these data technologies are free and open-source even for enterprise, if it is running on a local server. Using the declarative code-first data integration engine Meltano, it is feasible to bind everything together running this highly optimized data stack, but on a local server.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+*This ETL makes an extremely powerful setup, for small to medium-sized organizations or data that is project-based.*
 
-![](/images/demo.jpg)
+### What are the benefits?
+* ✅ *Automation.*  Orchestration tool will automatic handle the data-pipeline..
+* ✅ *Transparent.* Well documented and optmized syntax will make the data less errorprone and fast to debug.
+* ✅ *Version control*. Easily roll-back versions, and keep check of the devoplemnt
+* ✅ *Scalable.* Allows for many source in and out. All techioglies can be changed later down the line.
+* ✅ *Collaboration.* These tools a made for collobaration across data specielaist. Furtheremore, best tools and practis is used so data scientists will pick up speed in no time
+* ✅ *Configurable.* Thousands of data utilities exists to help (great-expectations, Apache Superset, etc.)
+* ✅ *Standardisation.* Use the standard best practice, no weird language or rules collobratios should know about.
+* ✅ *Single source of truth.* Work towards a single place where data is handle and gain trust in the data again.
+* ✅ *Development environment*. Sensitive data or devlopment time till beneifit from this.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-You can create lists:
-
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-The theme also supports markdown tables:
-
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
-
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
-
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
-
-You can throw in some horizontal rules too:
-
----
-
-#### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,
-	"
-%}
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a simple Liquid snippet in your post to create a masonry grid image layout:
-
-{% raw %}
-```liquid
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,/images/demo.jpg,
-	"
-%}
-```
-{% endraw %}
-
-*See what we did there? Code and syntax highlighting is built-in too!*
-
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
-
-
-#### Image carousels
-
-Here's another gallery with only one column, which creates a carousel slide-show instead.
-
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-{% include post-components/gallery.html
-	columns = 1
-	full_width = true
-	images = "/images/demo.jpg,/images/demo.jpg,/images/demo.jpg
-	"
-%}
-
-#### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-{% include post-components/video.html
-	url = "https://player.vimeo.com/video/270725085?color=6c6e95&title=0&byline=0"
-	full_width = true
-%}
+### What we propose
+* Meltano is the integration engine.
+* DBT as the data transformation and documentation tool.
+* Dagster as the orchestration tool.
+* DuckDB is the database tech.
+* Evidence for the frontend analyze tool. 
 
 ### Pretty cool, huh?
 
-We've packed this theme with powerful features to show off your work.
-Why not put them to use on your new website?
+We would like to tell you more about this highly customizable tech.
 
-<a href="https://jekyllthemes.io/theme/made-portfolio-jekyll-theme" class="button--fill">Get This Theme</a>
+<a href="https://jekyllthemes.io/theme/made-portfolio-jekyll-theme" class="button--fill">Get in touch.</a>
