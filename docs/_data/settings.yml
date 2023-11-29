@@ -16,7 +16,7 @@ menu_settings:
 footer_settings:
   logo_image: 
   logo_width: 100
-  tagline: Where Science Meets Engineering in the World of Data.
+  tagline: Where Analytics Meets Engineering in the World of Data.
 
 hero_settings:
   background_image: /images/backgrounds/background-hero.svg
