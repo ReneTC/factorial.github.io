@@ -1,14 +1,10 @@
 ---
-title: Modern data stack in a box
-subtitle: A fast inexepnsive data stack, using modern open-source data tools.
-date: 2023-11-26 00:00:00
-description: Using the newest open source tech, it is feasible to run a highly optimized data stack without the need of expensive data centers. Highly scalable and flexible for medium sized organsitations or project based data warehousing.  
-featured_image: meltano.jpg
-accent_color: '#4C60E6'
-gallery_images:
-  - meltano.jpg
-  - dbt.jpg
+title: ETL MODERN DATA STACK
+date: 2019-08-01 00:00:00
+description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
+featured_image: '/images/projects/meltano.jpg'
 ---
+
 Data is everything. Having highly optimized data quality will give the organization a great advantage. 
 
 Big organizations use expensive cloud servers, that has the latest and greatest from a modern data stack. However, many of these data technologies are free and open-source even for enterprise, if it is running on a local server. Using the declarative code-first data integration engine Meltano, it is feasible to bind everything together running this highly optimized data stack, but on a local server.
@@ -26,15 +22,16 @@ Big organizations use expensive cloud servers, that has the latest and greatest 
 * ✅ **Single source of truth.** Work towards a single place where data is handle and gain trust in the data again.
 * ✅ **Development environment.** Sensitive data or devlopment time till beneifit from this.
 
-### What we propose
+### Modern data stack in a box ? move to blog post?
 * Meltano as the integration engine.
 * DBT as the data transformation and documentation tool.
 * Dagster as the orchestration tool.
 * DuckDB is the database tech.
 * Evidence for the frontend analyze tool. 
 
-### Pretty cool, huh?
 
-We would like to tell you more about this highly customizable tech.
+### Curious how your organization can get the data lead?
 
-<a href="https://jekyllthemes.io/theme/made-portfolio-jekyll-theme" class="button--fill">Get in touch.</a>
+Let's talk. 
+
+<a href="#" class="header__cta button--fill contact-trigger js-contact">Get In Touch</a>

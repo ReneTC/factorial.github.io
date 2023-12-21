@@ -1,11 +1,11 @@
 ---
 title: About
-subtitle: .
+subtitle: Where Analytics Meets Engineering in the World of Data.
 description: Show off your best work with this beautiful, minimal and customizable portfolio theme.
 featured_image: '/images/demo.jpg'
 ---
 
-Welcome to Factorial-data your gateway to a world where data and artificial intelligence seamlessly converge to unlock limitless possibilities. We, Factorial-data, invite you to explore a digital realm where your data transforms into actionable insights and AI innovations redefine the norm.
+Welcome to Factorial-data your gateway to a world where data and artificial intelligence seamlessly converge to unlock limitless possibilities. You data transforms into actionable insights and AI innovations redefine the norm.
 
 > "Theories come and go, but fundamental data always remain the same. - Mary Leakey"
 

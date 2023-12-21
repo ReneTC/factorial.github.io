@@ -8,9 +8,7 @@ featured_image: /images/social.jpg
 
 <div class="page-home">
 
-	{% if site.data.settings.hero_settings.background_image %}
-	<!--<img src="{{ site.data.settings.hero_settings.background_image | relative_url }}" class="hero__background" draggable="false">-->
-	{% endif %}
+	<!-- <img src="{{ site.data.settings.hero_settings.background_image | relative_url }}" class="hero__background" draggable="false"> -->
 	{% include banner_flow.html %}
 	<section class="hero">
 		<div class="wrap grid">
@@ -28,8 +26,13 @@ featured_image: /images/social.jpg
 
 	<section class="listing">
 		<div class="wrap">
-
+			<!-- wrap -->
+			<article class="project__preview">
+				<div class="project__content grid" style="border-color: #4C60E6">
+				</div>
+			</article>
 			{% for project in site.projects reversed %}
+			
 
 			{% if project.accent_color %}{% capture accent_color %}{{ project.accent_color }}{% endcapture %}{% endif %}
 
@@ -47,16 +50,16 @@ featured_image: /images/social.jpg
 					<p class="project__description --small">
 						{{ project.description }}
 						<a href="{{ project.url | relative_url }}" class="project__link button--text --right"
-							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">View Case Study</a>
+							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">Read more</a>
 					</p>
 				</div>
 			</article>
 
 			{% endfor %}
+
 		</div>
 	</section>
 
 	{% include section__about.html %}
-
-	<!-- {% include recent_blog_post.html %} -->
+	{% include recent_blog_post.html %}
 </div>
