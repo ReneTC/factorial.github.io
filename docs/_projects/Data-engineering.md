@@ -6,7 +6,7 @@ description: Data engineering plays a crucial role in collecting, organizing, an
 featured_image: dataeng.webp
 accent_color: '#4C60E6'
 gallery_images:
-  - dataeng.webp
+  - dateeng.png
   - dbt.jpg
 ---
 

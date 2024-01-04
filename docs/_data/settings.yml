@@ -27,7 +27,7 @@ post_settings:
   grid_spacing: 10
 
 contact_settings:
-  email_address: 'sepluk1@gmail.com'
+  email_address: 'contact@factorialdata.com'
   form_action: 'https://formspree.io/f/mleyybko'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
