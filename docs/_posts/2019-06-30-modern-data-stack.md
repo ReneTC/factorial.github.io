@@ -13,7 +13,7 @@ Doing so, will quickly put your data majority miles ahead, with a fraction of tr
 
 *This ETL makes an extremely powerful setup, for small to medium-sized organizations or project-based data.*
 
-### What are the benefits?
+### What are the key benefits?
 * ✅ **Automation.**  Orchestration tool will automatically handle the data-pipeline.
 * ✅ **Transparent.** Well documented and optimized syntax will make the data less error-prone and fast to debug.
 * ✅ **Version control.** Easily roll-back versions, and keep check of the development

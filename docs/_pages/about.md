@@ -1,6 +1,6 @@
 ---
 title: About
-subtitle: Where Analytics Meets Engineering in the World of Data.
+subtitle: We do data and AI
 description: Show off your best work with this beautiful, minimal and customizable portfolio theme.
 featured_image: '/images/demo.jpg'
 ---
@@ -24,11 +24,11 @@ The commitment to innovation is boundless. We explore and integrate the latest a
 
 **Who are we** 
 
-Factorial Data is a brand new startup, and all services are currently managed by a single expert, René Czepluch Thomsen. 
+Factorial Data is a new startup, and all services are currently managed by a single expert, René C. Thomsen. 
 
-René Graduated from Aarhus university, with a masters in science and a specialty in Numerical Physics. After that, he was a data scientist for 1.5 years at Boozt.com - a multi-brand online fashion & lifestyle shop with more than 1000 brands. His last full time employment was as a Data Scientist for 1 year at Terma. Terma is a Danish weapon and aerospace manufacturer for both civilian and military applications.
+René Graduated from Aarhus university, with a masters in science and a specialty in Numerical Physics. After that, he was a data scientist for 1.5 years at Boozt.com - a multi-brand online fashion & lifestyle shop with more than 1000 brands. His last full time employment was as a Data Scientist for 1.1 years at Terma. Terma is a Danish weapon and aerospace manufacturer for both civilian and military applications.
 
-Despite the solo operation, rest assured that we bring extensive experience to the table. From data analysis to AI innovations, discover a journey that's about to get even more dynamic.
+From data analysis to AI innovations, discover a journey that's about to get even more dynamic.
 
 *Join us in reshaping the future, one data point and AI model at a time.*  
 

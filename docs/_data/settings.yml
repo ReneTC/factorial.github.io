@@ -13,12 +13,12 @@ menu_settings:
     - title: 'projects'
       url: '/blog'
     - title: 'about'
-      url: '/about/'
+      url: '/about'
 
 footer_settings:
   logo_image: 
   logo_width: 100
-  tagline: Where Analytics Meets Engineering in the World of Data.
+  tagline: We do data and AI
 
 hero_settings:
   background_image: /images/backgrounds/background-hero.svg

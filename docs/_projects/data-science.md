@@ -7,8 +7,9 @@ featured_image: ds.png
 accent_color: '#4C60E6'
 gallery_images:
   - ds.png
-  - ds2.webp
+
 ---
+<!-- - ds2.webp this is an image for the front gallery-->  
 In today's data-rich world, organizations are sitting on a treasure trove of information that can transform their businesses. But unlocking this hidden value requires expertise in data science, data analysis, artificial intelligence (AI), and machine learning (ML). These technologies are no longer just buzzwords; they are the driving force behind innovation, growth, and competitive advantage.
 
 Data science is the foundation of this revolution, providing the tools to analyze, interpret, and extract meaningful insights from data. By identifying trends, patterns, and anomalies, data scientists help organizations make informed decisions that drive business success.
