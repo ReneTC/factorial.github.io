@@ -1,3 +1,3 @@
 # How to build website
 - Navigate to `/docs`
-- exec `bundle exec jekyll serve` 
+- exec `JEKYLL_ENV=dev bundle exec jekyll serve` 

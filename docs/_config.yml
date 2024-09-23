@@ -56,7 +56,6 @@ sass:
 
 plugins:
   - jekyll-sitemap
-  - jekyll-seo-tag
 
 google_analytics: G-XYF4CL5HT2
 paginate: 7
