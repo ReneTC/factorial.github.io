@@ -32,7 +32,7 @@ for (var i = 0; i < x; i++) {
   stars.push({
     x: Math.random() * canvas.width,
     y: Math.random() * canvas.height,
-    radius: Math.random() * 1 + 1,
+    radius: Math.random() * 2 + 1,
     vx: Math.floor(Math.random() * 50) - 25,
     vy: Math.floor(Math.random() * 50) - 25
   });
@@ -48,11 +48,11 @@ function draw() {
   for (var i = 0, x = stars.length; i < x; i++) {
     var s = stars[i];
   
-    ctx.fillStyle = "#000000";
+    ctx.fillStyle = "#4C60E6";
     ctx.beginPath();
     ctx.arc(s.x, s.y, s.radius, 0, 2 * Math.PI);
     ctx.fill();
-    ctx.fillStyle = 'black';
+    ctx.fillStyle = "#4C60E6";
     ctx.stroke();
   }
   
@@ -69,8 +69,8 @@ function draw() {
       }
     }
   }
-  ctx.lineWidth = 0.1;
-  ctx.strokeStyle = 'black';
+  ctx.lineWidth = 0.5;
+  ctx.strokeStyle = "#4C60E6";
   ctx.stroke();
 }
 
