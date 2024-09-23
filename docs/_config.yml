@@ -57,6 +57,5 @@ sass:
 plugins:
   - jekyll-sitemap
 
-google_analytics: G-XYF4CL5HT2
 paginate: 7
 paginate_path: "/blog/page-:num/"
