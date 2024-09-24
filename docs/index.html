@@ -8,8 +8,10 @@ featured_image: /images/social.jpg
 
 <div class="page-home">
 
-	<!-- <img src="{{ site.data.settings.hero_settings.background_image | relative_url }}" class="hero__background" draggable="false"> -->
-	{% include banner_flow.html %}
+	{% if site.data.settings.hero_settings.background_image %}
+	<img src="{{ site.data.settings.hero_settings.background_image | relative_url }}" class="hero__background" draggable="false">
+	{% endif %}
+
 	<section class="hero">
 		<div class="wrap grid">
 			<div class="title">
