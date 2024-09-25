@@ -15,12 +15,6 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs6">
-    <rect
-       x="472.53848"
-       y="172.27641"
-       width="271.7788"
-       height="235.23089"
-       id="rect1370" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath20">
@@ -106,8 +100,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.1775"
-     inkscape:cx="490.44586"
-     inkscape:cy="282.37792"
+     inkscape:cx="488.32272"
+     inkscape:cy="336.73036"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -490,20 +484,5 @@
         </g>
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.75000002,0,0,-0.75000002,0,500.00002)"
-       id="text1368"
-       style="font-size:400px;white-space:pre;shape-inside:url(#rect1370);opacity:0.767253;fill:#4c60e6" />
-    <text
-       xml:space="preserve"
-       style="font-size:300px;opacity:0.767253;fill:#4c60e6;stroke-width:0.75"
-       x="451.97305"
-       y="-379.51086"
-       id="text1382"
-       transform="scale(1,-1)"><tspan
-         sodipodi:role="line"
-         id="tspan1380"
-         style="stroke-width:0.75"></tspan></text>
   </g>
 </svg>
