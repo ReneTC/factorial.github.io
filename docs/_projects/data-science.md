@@ -29,4 +29,4 @@ Whether you're just starting your data-driven journey or seeking to harness the 
 
 Let's talk. 
 
-<a href="#" class="header__cta button--fill contact-trigger js-contact">Get In Touch</a>
+<a href="#" class="header__cta button--fill contact-trigger js-contact">Contact</a>

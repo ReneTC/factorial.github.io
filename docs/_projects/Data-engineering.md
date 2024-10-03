@@ -31,4 +31,4 @@ In the ever-changing digital landscape, data quality is essential for businesses
 
 Let's talk. 
 
-<a href="#" class="header__cta button--fill contact-trigger js-contact">Get In Touch</a>
+<a href="#" class="header__cta button--fill contact-trigger js-contact">Contact</a>

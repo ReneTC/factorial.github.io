@@ -40,4 +40,4 @@ While the different components can either be swapped down the line or simply jus
 
 We can help you implement these technologies seamlessly, ensuring that your data stack aligns with your specific business needs. We offer a demo project showing the stack described above.
 
-<a href="#" class="header__cta button--fill contact-trigger js-contact">Get In Touch</a>
+<a href="#" class="header__cta button--fill contact-trigger js-contact">Contact</a>
