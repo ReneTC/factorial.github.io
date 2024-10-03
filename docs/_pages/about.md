@@ -35,4 +35,4 @@ René Graduated from Aarhus university, with a masters in science and a specialt
 
 > "Join us in reshaping the future, one data point and AI model at a time."
 
-![](/images/profile.png)
+![](/images/profile1.jpg)
